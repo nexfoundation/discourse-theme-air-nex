@@ -256,6 +256,8 @@ div.ac-wrap {
        url('../assets/noto-sans-tc-v24-chinese-traditional-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+$font-stack: sans-serif;
+$line-height-large: 3;
 html {
   body {
     background: linear-gradient(
